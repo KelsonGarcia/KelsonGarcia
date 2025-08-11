@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kelson Garcia
-- 👀 I’m interested in Java language
+- 👀 I’m interested in Java / Python languages
 - 🌱 I’m currently learning back-end languages
 - 💞️ I’m looking to collaborate on Stages to expand my experiences
 - 📫 How to reach me: kelson.fico@gmail.com
